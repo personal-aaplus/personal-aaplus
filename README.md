@@ -1,6 +1,8 @@
 <p align="center">
-  <img src="./assets/profile-banner.png" alt="Purple nebula banner with a bright star" width="100%" />
-</p><p align="center">
+  <img src="./profile-banner.png" alt="Purple nebula banner with a bright star" width="100%" />
+</p>
+
+<p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=760&height=45&lines=A+user+willing+to+make+software%2C+better.;Exploring+systems+and+how+they+work.;Building%2C+learning%2C+and+improving." alt="Animated introduction" />
 </p>
 
