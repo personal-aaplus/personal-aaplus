@@ -1,5 +1,7 @@
 <p align="center">
-  <img src="./profile-banner.png" alt="Purple nebula banner with a bright star" width="100%" />
+  <img src="./profile-banner-wide.png"
+       alt="Purple nebula banner"
+       width="100%" />
 </p>
 
 <p align="center">
