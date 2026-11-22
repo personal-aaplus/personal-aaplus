@@ -1,4 +1,4 @@
-# Hello, welcome to my repository.
+# Hello, welcome to my Github page.
 
 I'm **AA+** (`@personal-aaplus`), and I'm glad you're here.
 
@@ -32,7 +32,7 @@ This profile is a home for the things I work on and share.
 I value software that's:
 
 - **Functional** — Software should do what it's supposed to do.
-- **Thoughtfulness** — Good design goes beyond simply making something work.
+- **Thoughtful** — Good design goes beyond simply making something work.
 - **Reliable** — Consistency and stability matter.
 - **Always Improving** — There's nearly always something worth refining.
 
